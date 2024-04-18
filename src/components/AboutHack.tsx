@@ -10,23 +10,24 @@ export default function AboutHack() {
         className={`${press_start.className} text-hack-green text-2xl md:text-4xl text-center mb-4`}
         id="about"
       >
-        Hackath0n - це...
+        Hackath0n - is...
       </h3>
       <div className="flex grid-rows gap-4 items-center p-2 lg:text-left text-center relative">
         <div
           className={`${inter.className} col-span-2 flex flex-col gap-6 lg:p-6`}
         >
           <p>
-            BEST::HACKath0n — це захід, під час якого студенти IT-спеціальностей
-            у командах створюють новий програмний продукт протягом 24 годин у
-            форматі non-stop programming.
+            BEST::HACKath0n is an event where students who study IT
+            in teams create a new software product within 24 hours 
+            in a non-stop programming format.
+
           </p>
           <p>
-            BEST Lviv вже ввосьме організовує BEST::HACKath0n, надаючи
-            можливість студентам українських університетів продемонструвати та
-            вдосконалити свої професійні навички у сфері ІТ, роботи в команді,
-            познайомитися з однодумцями й поспілкуватися з представниками
-            компаній.
+            BEST Lviv is organizing BEST::HACKath0n for the eighth time,
+            providing an opportunity for students of Ukrainian universities
+            to demonstrate and improve their professional skills in IT, 
+            teamwork, meet like-minded people and communicate with company representatives.
+
           </p>
         </div>
         <Image
@@ -76,16 +77,17 @@ export default function AboutHack() {
           <h1
             className={`${press_start.className} text-2xl text-hack-green pb-5`}
           >
-            Тема:
+            Topic:
           </h1>
           {/* <AnimatedElement direction="right" delay={0.2}> */}
           <p className={`${inter_bold.className} pb-4`}>
-            Military (військова){" "}
+            Military{" "}
           </p>
           <p className="">
-            На меті учасників – створення MVP (Minimal Viable Product)
-            інноваційної онлайн-платформи, яка стане в нагоді у цей непростий
-            час для допомоги військовим/цивільним на окупованих територіях.
+          The goal of the participants is to create an MVP
+          (Minimal Viable Product) of an innovative online platform 
+          that will be useful in this difficult time to help the military/civilians 
+          in the occupied territories.
           </p>
         </div>
       </div>

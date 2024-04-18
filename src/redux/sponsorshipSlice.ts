@@ -8,12 +8,12 @@ const sellingPoints: iSellingPoint[] = [
         active: true,
         name: 'Basic',
         price: 300,
-        annotation: 'Цей пакет є обов`язковим!',
+        annotation: 'This offer is necessary!',
         services: [
-            `Логотип компанії на бренд-волл та на сайті проєкту`,
-            `Промоція в соціальних мережах (інформація про компанію)`,
-            `Логотип та згадка про компанію у постпроєктному відео`,
-            `Участь у нетворкінгу`
+            `Company logo on the brand wall and on the project website`,
+            `Promotion in social networks (company information).`,
+            `Logo and mention of your company in the post-project video.`,
+            `Participation in networking`
         ]
     },
     {
@@ -21,12 +21,12 @@ const sellingPoints: iSellingPoint[] = [
         active: false,
         name: 'Preceptor',
         price: 700,
-        annotation: "1 залишився",
+        annotation: "1 left",
         services: [
-            'Можливість залучення судді та/або ментора до змагань',
-            `Можливість провести воркшоп або тренінг серед учасників`,
-            `Логотип на футболках усіх учасників та організаторів`,
-            `Пост про компанію в Instagram`,
+            'The possibility of involving a mentor and/or a judge.',
+            `Possibility to conduct a workshop or training among participants`,
+            `Logo on T-shirts of all participants and organisers`,
+            `Post about the company on Instagram.`,
         ]
     },
     {
@@ -34,12 +34,12 @@ const sellingPoints: iSellingPoint[] = [
         active: false,
         name: 'AdVantage',
         price: 300,
-        annotation: '4 залишилось',
+        annotation: '4 left',
         services: [
             `World cafe`,
-            `Інтерактивні Instagram story`,
-            `Логотип на плакатах`,
-            `Гра «Treasure hunt»`,
+            `Interactive Instagram stories`,
+            `Logo on posters`,
+            `«Treasure hunt» game`,
         ]
     },
     {
@@ -50,14 +50,14 @@ const sellingPoints: iSellingPoint[] = [
         annotation: 'Ви можете обрати будь-які 4 опції з 9 можливих',
         services: [
             `World cafe`,
-            `Гра «Treasure hunt»`,
-            `Можливість залучення ментора та/або судді`,
-            `Пост про компанію в Instagram`,
-            `Розсилка вакансій у Telegram боті`,
-            `Розміщення банера компаній під час хакатону`,
-            `Доступ до бази CV учасників`,
-            `Номінація від компанії`,
-            `Участь у креативній загадці «Define solution»`
+            `«Treasure hunt» game`,
+            `The possibility of involving a mentor and/or a judge.`,
+            `Post about the company on Instagram.`,
+            `Sending out job vacancies via a Telegram bot`,
+            `Placement of the company banner during the Hackathon`,
+            `Access to the CV database of participants`,
+            `Nomination from the company`,
+            `Participation in the creative mystery «Define solution»`
         ]
     },
 ]

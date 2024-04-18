@@ -7,7 +7,7 @@ export default function ForCompany() {
       <h3
         className={`${press_start.className} text-hack-green text-2xl lg:text-3xl text-center`}
       >
-        Для партнерів
+        For partners
       </h3>
       <Image
         src="/BubblesPart1.png"
@@ -42,17 +42,17 @@ export default function ForCompany() {
           <p
             className={`border rounded-xl border-hack-green px-5 lg:px-10 py-2 z-10 flex items-center justify-center hover:scale-[102%] transition-all duration-500 backdrop-blur-lg ${inter.className}`}
           >
-            Підвищення впізнаваності бренду серед студентів
+            Increasing brand awareness among students
           </p>
           <p
             className={`border rounded-xl border-hack-green px-5 lg:px-10 py-2 z-10 flex items-center justify-center hover:scale-[102%] transition-all duration-500 backdrop-blur-lg ${inter.className}`}
           >
-            Інвестиція в амбітну й талановиту молодь
+            Investment in ambitious and talented young people
           </p>
           <p
             className={`border rounded-xl border-hack-green px-5 lg:px-10 py-2 z-10 flex items-center justify-center hover:scale-[102%] transition-all duration-500 backdrop-blur-lg ${inter.className}`}
           >
-            Ефективний піар, що спрямований на цільову аудиторію
+            Effective PR aimed at the target audience
           </p>
         </div>
         <div className="relative flex items-center justify-center">
@@ -84,18 +84,18 @@ export default function ForCompany() {
           <p
             className={`border rounded-xl border-hack-green px-5 lg:px-10 py-2 z-10 flex items-center justify-center hover:scale-[102%] transition-all duration-500 backdrop-blur-lg ${inter.className}`}
           >
-            Можливість відібрати ініціативних студентів із подальшою
-            перспективою працевлаштування
+            Opportunity to select initiative students with further employment prospects
           </p>
           <p
             className={`border rounded-xl border-hack-green px-5 lg:px-10 py-2 z-10 flex items-center justify-center hover:scale-[102%] transition-all duration-500 backdrop-blur-lg ${inter.className}`}
           >
-            Підтримка Збройних сил України
+            Support for the Armed Forces of Ukraine
+
           </p>
           <p
             className={`border rounded-xl border-hack-green px-5 lg:px-10 py-2 z-10 flex items-center justify-center hover:scale-[102%] transition-all duration-500 backdrop-blur-lg ${inter.className}`}
           >
-            Можливість знайти креативні рішення проблем у сфері military
+            Opportunity to find creative solutions to problems in the military sphere
           </p>
         </div>
       </div>

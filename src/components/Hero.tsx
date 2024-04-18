@@ -21,20 +21,20 @@ export default function Hero() {
         </div>
         <div className="flex flex-col mx-5 text-hack-green self-center xl:self-center text-center xl:text-right gap-3">
           <p className={`${press_start.className}`}>
-            Тема: military (військова)
+            Topic: military
           </p>
           <h1
             className={`${press_start.className} align-top items-center text-xl lg:text-5xl`}
           >
             BEST::HACKath0n
           </h1>
-          <p className={`${press_start.className} `}>11-12 травня</p>
+          <p className={`${press_start.className} `}>11-12 May</p>
           
           <button
             onClick={() => handleScrollClick("#offers")}
             className={`${press_start.className} flex self-center xl:self-end border-2 border-hack-green py-4 lg:py-[1.4vw] px-2 lg:px-[1.6vw] rounded-lg leading-none max-w-xs text-center w-full text-hack-green backdrop-blur-xl bg-black hover:scale-105 transition-all duration-500 z-40 xl:flex justify-center`}
           >
-            Стати партнером
+            Become a partner
           </button>
           <div className="max-w-screen-2xl overflow-hidden">
           <Image

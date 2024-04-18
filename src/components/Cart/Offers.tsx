@@ -16,115 +16,115 @@ const explanation: {
 } = {
   Basic: [
     {
-      heading: "Логотип компанії на бренд-волл та на сайті проєкту",
+      heading: "Company logo on the brand wall and on the project website",
       details:
-        "Розміщення логотипа компанії-партнера на бренд-волл проєкту, а також на сайті Хакатону.",
+        "We will place the company's logo on the project's brand wall, as well as on the Hackathon website.",
     },
     {
-      heading: "Промоція в соціальних мережах (інформація про компанію)",
+      heading: "Promotion in social networks (company information).",
       details:
-        "Розміщення інформації про компанію в соціальних мережах: згадка в Instagram-story, 1 пост в LinkedIn, Пост-дайджест у Telegram-каналі.",
+        "As part of the promotion, we will publish 1 Instagram story, 1 post on LinkedIn, and a post digest on the Telegram channel.        ",
     },
     {
-      heading: "Логотип та згадка про компанію у постпроєктному відео",
+      heading: "Logo and mention of your company in the post-project video.",
       details:
-        "Додавання логотипа компанії у відео, яке буде створено та виставлено в інстаграмі після успішного завершення Хакатону. Вказівка на компанію та її внесок у захід також буде присутня в цьому відео.",
+        "Adding the company logo to the video that will be created and posted on Instagram after the successful completion of the hackathon. We will also feature your company and its contribution to the event in this video as well.",
     },
     {
-      heading: "Участь у нетворкінгу",
+      heading: "Participation in networking",
       details:
-        "Нетворкінг —  це зустрічі між учасниками, організаторами та представниками компанії в неформальній обстановці, що може стати відмінною нагодою для студентів знайти роботу або стажування, а для компаній - надати ці можливості. Час проведення орієнтовно година.",
+        "Networking is a meeting between participants, organisers, and company representatives in an informal environment. This can be a great opportunity for students to find a job or an internship, and for companies to provide these opportunities. The duration of the event is approximately one hour.",
     },
   ],
   Preceptor: [
     {
-      heading: "Можливість залучення ментора та/або судді до змагань.",
+      heading: "The possibility of involving a mentor and/or a judge.",
       details:
-        "Ментор – це людина, яка має досвід та знання в галузі, в якій працює команда. Він допомагає учасникам розв'язати проблеми, які виникають під час розробки проєкту. Під час івенту буде три менторські сесії дві з яких в перший день проведення події і одна сесія на другий день. Суддя – це людина, що оцінює проєкти, які були розроблені командами під час хакатону. Його відповідальністю буде оцінювання якості реалізації, відповідності тематиці хакатону, інноваційності, практичної цінності та інших параметрів. Відповідальний за цю посаду повинен бути присутнім у другий день події, щоб оцінити роботу команд.",
+        "A mentor is a person who has experience and knowledge in the field in which the team works. They help participants solve problems that arise during the project development. During the event, there will be three mentoring sessions, two of which will be held on the first day of the event and one session on the second day. A judge is a person who evaluates projects developed by teams during a hackathon. Their responsibility will be to assess the quality of implementation, alignment with the hackathon theme, innovativeness, practical value, and other parameters. The person responsible for this position should be present on the second day of the event to evaluate the team's work.",
     },
     {
-      heading: "Можливість провести воркшоп або тренінг серед учасників",
+      heading: "Possibility to conduct a workshop or training among participants",
       details:
-        "Воркшоп – це тип інтерактивного навчання, де учасники виконують низку навчальних дій. Наприклад, це може бути демонстраційний показ, практичне заняття або дискусійний клуб.	Тренінг - це певний вид навчання, який спрямований на підвищення рівня знань та навичок учасників. Його головною метою є навчання технік, прийомів та стратегій, які можуть бути корисними для вирішення конкретних завдань. Наприклад, тренінг з техніки комунікації, управління проєктами, web технологій і т.д..",
+        "Workshop - is a type of interactive learning where participants engage in a series of educational activities. For example, it can be a demonstration, a practical session, or a discussion club. Training - is a specific type of learning aimed at enhancing the knowledge and skills of participants. Its main goal is to teach techniques, methods, and strategies that can be useful for solving specific tasks. For example, training in communication skills, project management, web technologies, etc.",
     },
     {
-      heading: "Логотип на футболках усіх учасників та організаторів",
+      heading: "Logo on T-shirts of all participants and organisers.",
       details:
-        "На спинах футболок всіх присутніх на заході людей, які вони отримають на відкритті Хакатону, буде надруковано логотип Вашої компанії.",
+        "Your company's logo will be printed on the backs of the t-shirts of all people present at the event, which they will receive at the opening of the Hackathon.",
     },
     {
-      heading: "Пост про компанію в Instagram",
+      heading: "Post about the company on Instagram.",
       details:
-        "Ми опублікуємо пост про Вашу компанію на нашій сторінці в Instagram, який буде доступний назавжди. В цьому пості ми надамо інформацію про Вашу компанію та зазначимо, що Ви є одним з наших основних партнерів на цьому хакатоні.",
+        "We will publish a post about your company on our Instagram page, which will be available forever. In this post, we will provide information about your company and note that you are one of our main partners for this Hackathon.",
     },
   ],
   AdVantage: [
     {
       heading: "World cafe",
       details:
-        "World cafe — це метод взаємодії групи людей, спрямований на спільне творення та обмін ідеями шляхом розмов на заздалегідь визначену тему в невимушеній атмосфері. Компанії буде виділено 30 хвилин на взаємодію з учасниками.",
+        "World Café is a method of interaction between a group of people aimed at exchanging ideas and co-creating through conversations on a predetermined topic in a relaxed atmosphere. Companies will be allocated 30 minutes to interact with participants.",
     },
     {
-      heading: "Інтерактивні Instagram-story",
+      heading: "Interactive Instagram stories",
       details:
-        "Спільно з нашою командою буде створено контент для промоції Instagram story на сторінці організації*. Приклади інтерактиву: рубрика “Питання-відповідь”; рубрика “Як проходить день нашого працівника” та інше. У компанії буде можливість створити максимум 5 таких інстаграм сторіз.",
+        "Together with our team, we will create content for promoting Instagram stories on the organization's page*. For example, this could be stories like `Question-Answer`; `A Day in the Life of Our Employee,` and so on. The company will be able to create a maximum of 5 such Instagram stories.",
     },
     {
-      heading: "Логотип на плакатах",
+      heading: "Logo on posters",
       details:
-        "на кожному плакаті, який буде розвішуватися містом буде надруковане лого Вашої компанії",
+        "The logo of your company will be printed on every poster that will be hung around the city.",
     },
     {
-      heading: "Гра «Treasure hunt»",
+      heading: "«Treasure hunt» game",
       details:
-        "Під час тижня живої реклами, яка буде проводитися за місяць до проєкту в Національному університеті “Львівська політехніка”, на території навчального закладу будуть розміщені подарунки (мерч), які надає Ваша компанія, і у форматі Instagram-story будуть розміщені підказки для пошуку. Після того як учасники знайдуть подарунки буде завантажено Instagram-story з переможцями і позначкою вашої компанії. Компанія може надати до трьох подарунків.",
+        "During the live advertising week, which will take place a month before the project at the Lviv Polytechnic National University, gifts (merchandise) provided by your company will be placed on the premises of the educational institution, and hints for searching will be posted in Instagram-story format. After participants find the gifts, an Instagram story will be uploaded with the winners and a tag of your company. The company can provide up to three gifts.",
     },
   ],
   LEGO: [
     {
       heading: "World cafe",
       details:
-        "World cafe — це метод взаємодії групи людей, спрямований на спільне творення та обмін ідеями шляхом розмов на заздалегідь визначену тему в невимушеній атмосфері. Компанії буде виділено 30 хвилин на взаємодію з учасниками.",
+        "World Café is a method of interaction between a group of people aimed at exchanging ideas and co-creating through conversations on a predetermined topic in a relaxed atmosphere. Companies will be allocated 30 minutes to interact with participants.",
     },
     {
-      heading: "Гра «Treasure hunt»",
+      heading: "«Treasure hunt» game",
       details:
-        "Під час тижня живої реклами, яка буде проводитися за місяць до проєкту в Національному університеті “Львівська політехніка”, на території навчального закладу будуть розміщені подарунки (мерч), які надає Ваша компанія, і у форматі Instagram-story будуть розміщені підказки для пошуку. Після того як учасники знайдуть подарунки буде завантажено Instagram-story з переможцями і позначкою вашої компанії. Компанія може надати до трьох подарунків.",
+        "During the live advertising week, which will take place a month before the project at the Lviv Polytechnic National University, gifts (merchandise) provided by your company will be placed on the premises of the educational institution, and hints for searching will be posted in Instagram-story format. After participants find the gifts, an Instagram story will be uploaded with the winners and a tag of your company. The company can provide up to three gifts.",
     },
     {
-      heading: "Можливість залучення ментора та/або судді до змагань.",
+      heading: "The possibility of involving a mentor and/or a judge.",
       details:
-        "Ментор – це людина, яка має досвід та знання в галузі, в якій працює команда. Він допомагає учасникам розв'язати проблеми, які виникають під час розробки проєкту. Під час івенту буде три менторські сесії дві з яких в перший день проведення події і одна сесія на другий день. Суддя – це людина, що оцінює проєкти, які були розроблені командами під час хакатону. Його відповідальністю буде оцінювання якості реалізації, відповідності тематиці хакатону, інноваційності, практичної цінності та інших параметрів. Відповідальний за цю посаду повинен бути присутнім у другий день події, щоб оцінити роботу команд.",
+        "A mentor is a person who has experience and knowledge in the field in which the team works. They help participants solve problems that arise during the project development. During the event, there will be three mentoring sessions, two of which will be held on the first day of the event and one session on the second day. A judge is a person who evaluates projects developed by teams during a hackathon. Their responsibility will be to assess the quality of implementation, alignment with the hackathon theme, innovativeness, practical value, and other parameters. The person responsible for this position should be present on the second day of the event to evaluate the team's work.",
     },
     {
-      heading: "Пост про компанію в Instagram",
+      heading: "Post about the company on Instagram.",
       details:
-        "Ми опублікуємо пост про Вашу компанію на нашій сторінці в Instagram, який буде доступний назавжди. В цьому пості ми надамо інформацію про Вашу компанію та зазначимо, що Ви є одним з наших основних партнерів на цьому хакатоні.",
+        "We will publish a post about your company on our Instagram page, which will be available forever. In this post, we will provide information about your company and note that you are one of our main partners for this Hackathon.",
     },
     {
-      heading: "Участь у креативній загадці «Define solution»",
+      heading: "Participation in the creative mystery `Define solution`",
       details:
-        "Завдання на декілька рівнів, яке потенційні учасники проєкту розв’язуватимуть самостійно. Загадка розпочнеться за місяць до проєкту, під час реєстрації учасників, і триватиме до початку Хакатону. Завдання буде формуватися вашою компанією з допомогою нашої команди та буде націлено на пошук перспективних ініціативних студентів, що володіють важливими для Вас навичками. Ви зможете ознайомитися із CV переможців, зв’язатися з ними, а також на закритті змагань нагородити їх своїм мерчем.",
+        "A multi-level challenge that potential project participants will solve independently. The mystery will begin a month before the project, during participant registration, and will continue until the start of the Hackathon. The task will be created by your company with the assistance of our team and will be aimed at identifying promising, initiative-driven students who possess important skills for you. You'll be able to review the CVs of the winners, contact them, and also reward them with your company's merchandise at the competition's closing ceremony.",
     },
     {
-      heading: "Розсилка вакансій у Telegram боті",
+      heading: "Sending out job vacancies via a Telegram bot",
       details:
-        "Піврічна розсилка вакансій та активностей(курсів, стажувань) від компанії у Telegram боті.",
+        "The telegram bot will send out the vacancies and other activities (courses, internships) for 6 months.",
     },
     {
-      heading: "Розміщення банера компаній під час Хакатону",
+      heading: "Placement of the company banner during the Hackathon",
       details:
-        "Банер надається компанією",
+        "The company provides the banner.",
     },
     {
-      heading: "Доступ до бази CV учасників",
+      heading: "Access to the CV database of participants",
       details:
-        "Це можливість отримати доступ до бази даних CV учасників, що пройшли відбір на хакатон.",
+        "This is an opportunity to access the CV database of participants selected for the hackathon.",
     },
     {
-      heading: "Номінація від компанії",
+      heading: "Nomination from the company",
       details:
-        "Ви можете обрати власну номінацію на змаганнях, яка буде закріплена за Вашою компанією. Ви визначаєте у ній переможця та нагороджуєте призом. Номінація може стосуватись використання певних технологій або інших особливостей роботи команди на Ваш вибір.",
+        "You can choose your nomination at the competition, which will be assigned to your company. You determine the winning team and award them with a prize. The nomination may refer to the use of certain technologies or other features of the team's work of your choice.",
     },
   ],
 };
@@ -221,10 +221,10 @@ export default function Offers() {
       </h2>
       <div className="flex flex-col-reverse lg:flex-row-reverse gap-10 items-start">
       <div className="flex flex-col justify-center text-left lg:max-w-lg">
-        <h2 className={`${press_start.className} text-white text-xl`}>10% отриманих коштів підуть на допомогу ЗСУ</h2>
-        <p className={`${inter.className} text-gray-500 font-italic text-sm`}>*Оплата буде здійснюватися за курсом НБУ</p>
-        <p className={`${inter.className} text-gray-300 my-5`}>Кожен партнер проєкту має змогу долучитись до благодійного збору-розіграшу для ЗСУ в наших соціальних мережах. Серед людей, що задонатять, випадковим чином оберуться переможці, які отримають подарунки від компаній-партнерів.</p>
-        <p className={`${inter.className} text-gray-300`}>Також після успішного завершення хакатону вам надається фото та відеозвіт від організаторів.</p>
+        <h2 className={`${press_start.className} text-white text-xl`}>10% of the funds received will support the Armed Forces of Ukraine.</h2>
+        <p className={`${inter.className} text-gray-500 font-italic text-sm`}>*Payment will be made at the exchange rate of the National Bank of Ukraine.</p>
+        <p className={`${inter.className} text-gray-300 my-5`}>Each project partner can join a charity fundraiser raffle for the Armed Forces of Ukraine on our social media. Among the people who donate, winners will be randomly selected and will receive gifts from partner companies.</p>
+        <p className={`${inter.className} text-gray-300`}>Also, after the successful completion of the hackathon, you will receive a photo and video report from the organizers.</p>
       </div>
       <Image
           src="/Elipse.png"

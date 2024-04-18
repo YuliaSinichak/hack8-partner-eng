@@ -93,7 +93,7 @@ export default function Drawer({
                         }}
                         className={`${press_start.className} border-2 border-hack-green lg:py-[1.4vw] py-4 px-2 lg:px-[1.6vw] rounded-lg h-fit leading-none lg:w-auto w-full text-hack-green backdrop-blur-sm hover:scale-105 transition-all duration-500 hover:bg-hack-green hover:text-white`}
                       >
-                        Стати партнером
+                        Become a partner
                       </button>
                     </div>
                   </div>

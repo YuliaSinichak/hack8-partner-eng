@@ -56,7 +56,7 @@ export default function Feedbacks(){
                         className="w-full max-w-3xl self-center col-span-1 h-30"
                     />
                 <div className="border border-hack-green rounded-xl backdrop-blur-lg p-5 lg:p-12 col-span-2">
-                    Все пройшло дуже гарно, учасники великі молодці і класно, що більшість були такі зацікавлені.
+                 Everything went very well, the participants are great. It's cool that most people were so interested.
                 </div>
                     
                 <Image
@@ -67,7 +67,7 @@ export default function Feedbacks(){
                     className="w-full max-w-3xl self-center col-span-1"
                 />
                 <div className="border border-hack-green rounded-xl backdrop-blur-lg p-5 lg:p-12 col-span-2">
-                    Сподобались активні захисти проєктів. Був хороший склад суддів і гарна організація загалом.
+                I liked the active defense of projects. There were good judges and organization of the event in general.
                 </div>
                     
                 <Image
@@ -78,7 +78,7 @@ export default function Feedbacks(){
                     className="w-full max-w-3xl self-center col-span-1"
                 />
                 <div className="border border-hack-green rounded-xl backdrop-blur-lg p-5 lg:p-12 col-span-2">
-                        На змаганнях була крута командність і залученість людей, в яких горять очі!
+                The competition showcased an impressive team spirit and engagement from really passionate people.
                 </div>
                 
 

@@ -16,15 +16,15 @@ type MenuItem = {
 
 const navigation: MenuItem[] = [
   {
-    name: "Про нас",
+    name: "About Us",
     href: "#about",
   },
   {
-    name: "Пропозиції",
+    name: "Offers",
     href: "#offers",
   },
   {
-    name: "Контакти",
+    name: "Contacts",
     href: "#contacts",
   },
 ];
@@ -72,7 +72,7 @@ export default function Header() {
         onClick={() => handleScrollClick("#about")}
         className={`${press_start.className} border-2 border-white lg:py-[1.1vw] px-2 lg:px-[1.6vw] rounded-lg h-fit leading-none lg:w-auto w-full text-white backdrop-blur-sm hover:scale-105 transition-all duration-500 relative z-30 hidden xl:flex items-center`}
       >
-        Дізнатись більше
+        Get to know more
       </button>
       <Dialog.Root>
         <div className="flex xl:hidden relative top-1">

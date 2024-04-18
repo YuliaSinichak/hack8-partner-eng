@@ -5,7 +5,7 @@ export default function Portrait() {
     return (
         <div className="relative min-h-screen flex flex-col justify-center items-center w-full">
             <h1 className={`${press_start.className} flex self-center text-center text-2xl lg:text-3xl text-hack-green m-10`}>
-                Портрет учасника
+            Portrait of a participant
             </h1>
             <Image
                 src="/BubblesPart1.png"
@@ -46,7 +46,7 @@ export default function Portrait() {
                 />
             <div className="flex flex-col gap-4 items-center justify-center self-center ">
                 <div className="border border-hack-green p-10 text-center text-xl rounded-xl w-80 hover:scale-102 backdrop-blur-lg">
-                    <p className={`${press_start.className}`}>Для кого?</p>
+                    <p className={`${press_start.className}`}>For whom?</p>
                 </div>
                 <Image
                     src="/arrow.svg"
@@ -56,7 +56,7 @@ export default function Portrait() {
                     className="animate-bounce w-12 h-12 m-3 visible flex self-center"
                 />
                 <div className="border border-hack-green p-10 text-center rounded-xl w-80 hover:scale-102 backdrop-blur-lg">
-                    <p className={`${inter.className}`}>Для креативної та ініціативної молоді, що зацікавлена розвиватись в IT</p>
+                    <p className={`${inter.className}`}>For creative and enterprising young people who are interested in developing in IT</p>
                 </div>
             </div>
           <Image

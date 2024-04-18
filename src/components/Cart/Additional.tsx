@@ -16,29 +16,29 @@ import { Checkbox } from "@/components/ui/checkbox";
 
 const explanation: dataItem[] = [
   {
-    heading: "Розсилка вакансій у Telegram боті",
+    heading: "Sending out job vacancies via a Telegram bot",
     details:
-      "Піврічна розсилка вакансій та активностей(курсів, стажувань) від компанії у Telegram боті.",
+      "The telegram bot will send out the vacancies and other activities (courses, internships) for 6 months.",
   },
   {
-    heading: "Розміщення банера компаній під час Хакатону",
+    heading: "Placement of the company banner during the Hackathon",
     details:
-      " ",
+      "The company provides the banner. ",
   },
   {
-    heading: "Доступ до бази CV учасників",
+    heading: "Access to the CV database of participants",
     details:
-      "Це можливість отримати доступ до бази даних CV учасників, що пройшли відбір на хакатон.",
+      "This is an opportunity to access the CV database of participants selected for the hackathon.",
   },
   {
-    heading: "Номінація від компанії",
+    heading: "Nomination from the company",
     details:
-      "Ви можете обрати власну номінацію на змаганнях, яка буде закріплена за Вашою компанією. Ви визначаєте у ній переможця та нагороджуєте призом. Номінація може стосуватись використання певних технологій або інших особливостей роботи команди на Ваш вибір.",
+      "You can choose your nomination at the competition, which will be assigned to your company. You determine the winning team and award them with a prize. The nomination may refer to the use of certain technologies or other features of the team's work of your choice.",
   },
   {
-    heading: "Участь у креативній загадці «Define solution»",
+    heading: "Participation in the creative mystery `Define solution`",
     details:
-      "Завдання на декілька рівнів, яке потенційні учасники проєкту розв’язуватимуть самостійно. Загадка розпочнеться за місяць до проєкту, під час реєстрації учасників, і триватиме до початку Хакатону. Завдання буде формуватися вашою компанією з допомогою нашої команди та буде націлено на пошук перспективних ініціативних студентів, що володіють важливими для Вас навичками. Ви зможете ознайомитися із CV переможців, зв’язатися з ними, а також на закритті змагань нагородити їх своїм мерчем.",
+      "A multi-level challenge that potential project participants will solve independently. The mystery will begin a month before the project, during participant registration, and will continue until the start of the Hackathon. The task will be created by your company with the assistance of our team and will be aimed at identifying promising, initiative-driven students who possess important skills for you. You'll be able to review the CVs of the winners, contact them, and also reward them with your company's merchandise at the competition's closing ceremony.",
   },
 ];
 

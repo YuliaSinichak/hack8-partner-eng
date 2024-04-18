@@ -29,11 +29,11 @@ const dataCourses = {
     }],
     
     labels: [
-        'I курс',
-        'II курс',
-        'III курс',
-        'IV курс',
-        'Магістратура'
+        '1st year student',
+        '2nd year student',
+        '3rd year student',
+        '4th year student',
+        'Master`s Degree'
     ],
 };
 
@@ -59,7 +59,7 @@ const dataLang = {
         '.NET',
         'Java',
         'Python',
-        'Інше'
+        'Other'
     ]
 };
 
@@ -68,26 +68,26 @@ export default function Visitors(){
     return (
         <div className="relative min-h-screen w-full">
             <h2 className={`${press_start.className} text-hack-green text-2xl lg:text-4xl my-2 text-center`}>
-            Хто відвідує Хакатон?
+            Who attends the HACKath0n?
             </h2>
             <div className='gap-10 lg:gap-20 flex flex-wrap w-full justify-center'>
                 <div className='flex flex-col items-center justify-center max-w-md m-5 p-5 lg:mx-16'>
-                    <h1 className={`${press_start.className} texl-xl, text-white my-10 text-center`}>Статистика по курсах університету</h1>
+                    <h1 className={`${press_start.className} texl-xl, text-white my-10 text-center`}>Statistics on university courses</h1>
                     <Doughnut data={dataCourses} />
                 </div>
                 <div className='flex flex-col items-center justify-center max-w-md m-5 p-5 lg:mx-16'>
-                    <h1 className={`${press_start.className} texl-xl, text-white my-10 text-center`}>Статистика по мовах програмування</h1>
+                    <h1 className={`${press_start.className} texl-xl, text-white my-10 text-center`}>Statistics on programming languages</h1>
                     <Doughnut data={dataLang} />
                 </div>
                 <div className='flex flex-col items-center justify-center max-w-md'>
-                    <h1 className={`${press_start.className} texl-xl, text-white my-10 text-center`}>Спеціальності на яких навчаються учасники</h1>
+                    <h1 className={`${press_start.className} texl-xl, text-white my-10 text-center`}>Specialties of the participants</h1>
                     <div>
-                        <li>Інженерія програмного забезпечення</li>
-                        <li> Кібербезпека</li>
-                        <li>Комп’ютерні науки</li>
-                        <li>Інтернет речей</li>
-                        <li>Системи штучного інтелекту</li>  
-                        <li>Системний аналіз</li>
+                        <li>Software engineering</li>
+                        <li>Cybersecurity</li>
+                        <li>Computer Science</li>
+                        <li>Internet of things</li>
+                        <li>Artificial Intelligence (AI systems)</li>  
+                        <li>System Analysis</li>
                     </div>
                 </div>
                 <Image

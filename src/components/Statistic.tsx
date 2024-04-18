@@ -13,7 +13,7 @@ export default function Statistic() {
       <h1
         className={` ${press_start.className} flex text-3xl lg:text-5xl text-hack-green my-12 self-center`}
       >
-        Статистика
+        Statistics 
       </h1>
       <div className="relative flex flex-col lg:flex-row gap-4">
         <div className="grid grid-cols-2 lg:grid-cols-1 gap-4 text-center text-lg lg:text-xl">
@@ -63,22 +63,21 @@ export default function Statistic() {
           <h2
             className={`${press_start.className} flex text-hack-green mb-5 text-lg lg:text-xl`}
           >
-            Статистика минулого хаку
+            Statistics of the last HACKath0n
           </h2>
           <div className="text:md lg:text-lg flex gap-3 flex-col">
             <li>
-              Кількість переглядів на постах про відкриття реєстрації на наших
-              сторінках: <span className="text-hack-green">14.4k+</span>
+            The number of views on posts about the opening of registration on our pages: <span className="text-hack-green">14.4k+</span>
             </li>
             <li>
-              Користувачі, що пройшли повну реєстрацію:{" "}
+            Users who have completed full registration:{" "}
               <span className="text-hack-green">304</span>{" "}
             </li>
             <li>
-              Зареєстрованих команд: <span className="text-hack-green">41</span>
+            Registered teams:  <span className="text-hack-green">41</span>
             </li>
             <li>
-              Команди, які пройшли відбір:{" "}
+            Teams that have been selected:{" "}
               <span className="text-hack-green">15</span>
             </li>
           </div>

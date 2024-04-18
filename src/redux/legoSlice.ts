@@ -9,42 +9,42 @@ const legoPoints: iLego[] = [
     id: 1,
   },
   {
-    name: "Гра «Treasure hunt»у",
+    name: "«Treasure hunt» game",
     active: false,
     id:2
   },
   {
-    name: "Можливість залучення ментора та/або судді",
+    name: "The possibility of involving a mentor and/or a judge.",
     active: false,
     id:3,
   },
   {
-    name: "Пост про компанію в Instagram",
+    name: "Post about the company on Instagram.",
     active: false,
     id:4,
   },
   {
-    name: "Розсилка вакансій у Telegram боті",
+    name: "Sending out job vacancies via a Telegram bot",
     active: false,
     id: 5,
   },
   {
-    name: "Розміщення банера компаній під час хакатону",
+    name: "Placement of the company banner during the Hackathon",
     active: false,
     id: 6,
   },
   {
-    name: "Доступ до бази CV учасників",
+    name: "Access to the CV database of participants",
     active: false,
     id: 7,
   },
   {
-    name: "Номінація від компанії",
+    name: "Nomination from the company",
     active: false,
     id: 8,
   },
   {
-    name: "Участь у креативній загадці «Define solution»",
+    name: "Participation in the creative mystery `Define solution`",
     active: false,
     id: 8,
   },

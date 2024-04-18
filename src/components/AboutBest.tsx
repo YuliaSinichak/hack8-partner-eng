@@ -18,7 +18,7 @@ export default function AboutBest() {
       <h2
         className={`${press_start.className} text-hack-green text-2xl my-4 md:text-4xl text-center`}
       >
-        Про BEST Lviv
+        About BEST Lviv
       </h2>
       <div className="grid gap-5 w-full grid-cols-12">
         <div className="md:col-span-5 col-span-12">
@@ -38,10 +38,10 @@ export default function AboutBest() {
           <span className={inter_bold.className}>
             BEST Lviv (Board of European Students of Technology)
           </span>
-          – осередок міжнародної неприбуткової громадської організації, який
-          об’єднує студентів технічних спеціальностей. Нашою місією є розвиток
-          студентів через обмін знаннями та співпраці компаній, університетів та
-          студентів Європи.
+          – is a local branch of an international non-profit student organization that 
+          brings together students of technical specialties. Our mission is to develop students
+          through the exchange of knowledge and collaboration between companies, universities,
+          and students across Europe.
         </p>
       </div>
       <div className=" min-h-screen w-full mt-20 items-center">
@@ -58,17 +58,17 @@ export default function AboutBest() {
           <div className="flex flex-row gap-4 text-hack-green">
             85
             <span className={` text-white  text-lg lg:text-3xl`}>
-              осередків
+              local branches
             </span>
           </div>
           <div className="flex flex-row gap-4 text-hack-green">
             30
-            <span className={` text-white text-lg lg:text-3xl`}>країн</span>
+            <span className={` text-white text-lg lg:text-3xl`}>countries</span>
           </div>
           <div className="flex flex-row gap-4 text-hack-green">
             35
             <span className={` text-white text-lg lg:text-3xl`}>
-              років досвіду
+              years of experience
             </span>
           </div>
         </div>

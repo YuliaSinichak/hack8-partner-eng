@@ -85,7 +85,7 @@ export default function Partners() {
       <h2
         className={`${press_start.className} text-hack-green text-2xl lg:text-4xl my-2 text-center`}
       >
-        Нас підтримували
+        We were supported by
       </h2>
 
       <div className="gap-10 flex flex-wrap w-full justify-center">
