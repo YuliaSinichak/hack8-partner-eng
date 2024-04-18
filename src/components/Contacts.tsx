@@ -69,27 +69,27 @@ export default function Contacts() {
       id="contacts"
     >
       <Contact
-        name="Шестак Ілля"
+        name="Shestak Illia"
         imageSrc="/Ilia.png"
         phoneNumber="+380666658431"
         email="illia.shestak@best-eu.org"
-        role="відповідальний за корпоративні зв'язки"
+        role="Company relations responsible"
         className="order-1"
       />
       <Contact
-        name="Тетяна Панчук"
+        name="Tetiana Panchuk"
         imageSrc="/Tetiana.png"
         phoneNumber="+380978077397"
         email="tetiana.panchuk@best-eu.org"
-        role="головна організаторка"
+        role="Main Organizer"
         className="order-first lg:order-1"
       />
       <Contact
-        name="Марія Зарванська"
+        name="Mariia Zarvanska"
         imageSrc="/Mariia.png"
         phoneNumber="+380991323749"
         email="mariia.zarvanska@best-eu.org"
-        role="відповідальна за корпоративні зв'язки"
+        role="Company relations responsible"
         className="order-3"
       />
     </div>
