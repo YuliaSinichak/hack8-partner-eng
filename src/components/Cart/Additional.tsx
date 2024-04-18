@@ -103,7 +103,7 @@ export default function Offers() {
       <h2
         className={`${press_start.className} text-4xl md:text-4xl mt-16 text-hack-green  text-center z-10`}
       >
-        Додаткові Опції
+        Additional Options
       </h2>
       <Image
         src="/Elipse.png"

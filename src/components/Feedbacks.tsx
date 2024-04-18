@@ -4,7 +4,7 @@ import { press_start } from "@/app/fonts"
 export default function Feedbacks(){
     return(
         <div className="relative flex flex-col justify-center items-center w-full min-h-screen mx-5 my-10 ">
-            <h1 className={`${press_start.className} flex self-center text-hack-green text-2xl lg:text-4xl my-10`}>Відгуки</h1>
+            <h1 className={`${press_start.className} flex self-center text-hack-green text-2xl lg:text-4xl my-10`}>Reviews</h1>
             <Image
                 src="/feedbacks2.png"
                 width={300}

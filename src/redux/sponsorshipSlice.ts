@@ -47,7 +47,7 @@ const sellingPoints: iSellingPoint[] = [
         active: false,
         name: 'LEGO',
         price: 500,
-        annotation: 'Ви можете обрати будь-які 4 опції з 9 можливих',
+        annotation: 'You can choose any 4 options from 9',
         services: [
             `World cafe`,
             `«Treasure hunt» game`,

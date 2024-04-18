@@ -217,7 +217,7 @@ export default function Offers() {
       <h2
         className={`${press_start.className} text-3xl text-hack-green my-16  md:text-5xl text-center self-center`}
       >
-        Пропозиції
+        Offers
       </h2>
       <div className="flex flex-col-reverse lg:flex-row-reverse gap-10 items-start">
       <div className="flex flex-col justify-center text-left lg:max-w-lg">

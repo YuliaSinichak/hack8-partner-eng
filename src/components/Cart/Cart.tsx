@@ -163,7 +163,7 @@ export default function Cart() {
       <h2
         className={`${press_start.className} text-hack-green text-3xl md:text-5xl my-16 text-center`}
       >
-        Кошик
+        Cart
       </h2>
       <div className="mx-auto w-full max-w-5xl">
         <div className="flex flex-col gap-5">
@@ -205,7 +205,7 @@ export default function Cart() {
                 type="text"
                 name="company_name"
                 className="w-full mt-4 p-5 border-2 focus:border-hack-green outline-none text-lg bg-transparent rounded-xl"
-                placeholder="Назва компанії"
+                placeholder="Company Name"
                 onChange={formik.handleChange}
                 onBlur={formik.handleBlur}
                 value={formik.values.company_name}
@@ -232,16 +232,16 @@ export default function Cart() {
                 className={`${press_start.className} border-2 rounded-xl bg-black border-hack-green hover:scale-105 w-full text-hack-green outline-none px-10 py-4 my-5 self-center text-md`}
                 type="submit"
               >
-                Замовити
+                Submit
               </button>
             </div>
           </form>
           <div className="flex flex-col relative z-20 justify-center items-center text-left ">
-            <p className={`${inter.className} text-sm md:text-lg text-gray-300`}>Партнерам попередніх проєктів <span className="text-hack-green">-5%</span></p>
+            <p className={`${inter.className} text-sm md:text-lg text-gray-300`}>Partners of previous projects<span className="text-hack-green">-5%</span></p>
             <div className="grid grid-col text-sm md:text-lg text-gray-300">
-                <p className={`${inter.className}`}>Базовий + 4 додаткові опції <span className="text-hack-green">-50$</span></p>
-                <p className={`${inter.className}`}>Базовий + один пакет <span className="text-hack-green">-50$</span></p>
-                <p className={`${inter.className}`}>Базовий + два пакети <span className="text-hack-green">-150$</span></p>
+                <p className={`${inter.className}`}>Basic + 4 additional options <span className="text-hack-green">-50$</span></p>
+                <p className={`${inter.className}`}>Basic + one package <span className="text-hack-green">-50$</span></p>
+                <p className={`${inter.className}`}>Basic + two packages <span className="text-hack-green">-150$</span></p>
             </div>
             </div>
         </div>
